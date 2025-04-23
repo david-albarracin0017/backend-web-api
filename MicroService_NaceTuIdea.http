@@ -1,0 +1,6 @@
+@MicroService_NaceTuIdea_HostAddress = http://localhost:5014
+
+GET {{MicroService_NaceTuIdea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
